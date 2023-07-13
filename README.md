@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=ffde5c&height=150&section=header&text=JeongJaeYeong&fontColor=ffffff)
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <!--
 **ZZO-ZHO/ZZO-ZHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
